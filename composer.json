@@ -1,0 +1,27 @@
+{
+    "name":"fballiano/magento-category-sort-direction",
+    "license":"OSL-3.0",
+    "type":"magento-module",
+    "description":"Allows you to decide the product sorting direction on category pages.",
+    "homepage":"https://github.com/fballiano/magento-category-sort-direction",
+    "require":{
+        "php":">=5.3.0"
+    },
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+    },
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"http://packages.firegento.com"
+        }
+    ],
+    "authors":[
+        {
+            "name":"Fabrizio Balliano",
+            "email":"fabrizio@fabrizioballiano.it",
+            "homepage":"http://fabrizioballiano.it",
+            "role":"Developer"
+        }
+    ]
+}
