@@ -26,19 +26,6 @@
                 </rewrite>
             </catalog>
         </blocks>
-        <!--
-        <events>
-            <catalog_product_collection_load_before>
-                <observers>
-                    <categorysortdirection>
-                        <type>model</type>
-                        <class>categorysortdirection/observer</class>
-                        <method>catalogProductCollectionLoadBefore</method>
-                    </categorysortdirection>
-                </observers>
-            </catalog_product_collection_load_before>
-        </events>
-        -->
         <resources>
             <categorysortdirection_setup>
                 <setup>
