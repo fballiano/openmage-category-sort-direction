@@ -1,1 +1,2 @@
-app/*       app
+app/code/community/Fballiano/CategorySortDirection app/code/community/Fballiano/CategorySortDirection
+app/etc/modules/Fballiano_CategorySortDirection.xml app/etc/modules/Fballiano_CategorySortDirection.xml
