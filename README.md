@@ -20,7 +20,7 @@ Installation
 Simply download the whole repository and copy everything to your Magento document root.
 Otherwise with modman:
 ```shell
-modman clone https://github.com/fballiano/magento-category-sort-direction
+modman clone https://github.com/fballiano/openmage-category-sort-direction
 ```
 
 Compatibility
